@@ -1,0 +1,3 @@
+test,statistic,p_value,effect_size,alpha,significant
+Contract type vs churn (chi-square),1179.5458287339445,7.326182186265472e-257,0.4095604189089921,0.05,True
+Monthly charges by churn (Welch t-test),18.34091879095257,2.657357144516047e-72,,0.05,True
